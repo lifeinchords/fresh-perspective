@@ -1,0 +1,4 @@
+*.prefab eol=lf
+*.unity eol=lf
+*.asset eol=lf
+*.txt eol=lf
